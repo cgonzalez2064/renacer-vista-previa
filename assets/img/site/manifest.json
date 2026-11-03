@@ -1,0 +1,277 @@
+{
+ "capilla-1": {
+  "h": 530,
+  "src": "gallery_20141205_1113975978.png",
+  "w": 740
+ },
+ "capilla-2": {
+  "h": 530,
+  "src": "gallery_20141205_1516150162.png",
+  "w": 740
+ },
+ "fam-cafeteria": {
+  "h": 450,
+  "src": "cafeteria_20151107_1488093082.png",
+  "w": 720
+ },
+ "fam-ninos-1": {
+  "h": 530,
+  "src": "area_de_ninos_1_20151107_1843356341.png",
+  "w": 740
+ },
+ "fam-ninos-2": {
+  "h": 530,
+  "src": "area_de_ninos_2_20151107_1924391949.png",
+  "w": 740
+ },
+ "fam-ninos-3": {
+  "h": 530,
+  "src": "area_de_ninos_3_20151107_1857306563.png",
+  "w": 740
+ },
+ "hab-privada-1": {
+  "h": 512,
+  "src": "habitaciones_1_20160817_1906730576.png",
+  "w": 740
+ },
+ "hab-privada-2": {
+  "h": 512,
+  "src": "habitaciones_2_20160817_1383871883.png",
+  "w": 740
+ },
+ "hab-privada-3": {
+  "h": 512,
+  "src": "habitaciones_3_20160817_1595349615.png",
+  "w": 740
+ },
+ "hab-semiprivada": {
+  "h": 530,
+  "src": "habitacion_semiprivadas_1_20160822_1737962567.png",
+  "w": 740
+ },
+ "hab-suite": {
+  "h": 512,
+  "src": "habitacion_suite_1_20160831_1096243701.png",
+  "w": 740
+ },
+ "hab-visita": {
+  "h": 512,
+  "src": "370-x-256-m.png",
+  "w": 740
+ },
+ "hero-enfermera": {
+  "h": 1000,
+  "src": "400-x-500-a.png",
+  "w": 800
+ },
+ "hero-familia": {
+  "h": 1000,
+  "src": "400-x-500-h.png",
+  "w": 800
+ },
+ "hero-neonatos": {
+  "h": 1000,
+  "src": "intensivo-neonatos-nueva.png",
+  "w": 800
+ },
+ "ins-bam": {
+  "h": 47,
+  "src": "bam.png",
+  "w": 360
+ },
+ "ins-generali": {
+  "h": 120,
+  "src": "generals.png",
+  "w": 183
+ },
+ "ins-gyt": {
+  "h": 61,
+  "src": "logomedired.jpg",
+  "w": 360
+ },
+ "ins-mapfre": {
+  "h": 59,
+  "src": "MAPFRE.png",
+  "w": 360
+ },
+ "ins-panamerican": {
+  "h": 89,
+  "src": "Pan-American-Life.png",
+  "w": 286
+ },
+ "maternidad-mama": {
+  "h": 1000,
+  "src": "maternidad_3_20160818_2088735248.png",
+  "w": 800
+ },
+ "neo-bebe": {
+  "h": 512,
+  "src": "intensivo_de_recien_nacidos_1_20151107_1040562135.png",
+  "w": 740
+ },
+ "neo-enfermera": {
+  "h": 512,
+  "src": "maternidad_2_20160818_1262377774.png",
+  "w": 740
+ },
+ "neo-fototerapia": {
+  "h": 530,
+  "src": "intensivo_de_recien_nacidos_1_20160831_1034926304.png",
+  "w": 740
+ },
+ "neo-salacuna": {
+  "h": 530,
+  "src": "intensivo_de_recien_nacidos_1_20151107_1364384416.png",
+  "w": 740
+ },
+ "personal-enfermera": {
+  "h": 1000,
+  "src": "personal_3_20160818_1491636058.png",
+  "w": 800
+ },
+ "personal-equipo": {
+  "h": 512,
+  "src": "personal_1_20160818_1790018873.png",
+  "w": 740
+ },
+ "personal-recepcion": {
+  "h": 512,
+  "src": "personal_c_2_20160831_1213214006.png",
+  "w": 740
+ },
+ "qx-sala": {
+  "h": 530,
+  "src": "sala_de_operaciones_1_20151107_1874489177.png",
+  "w": 740
+ },
+ "qx-video": {
+  "h": 512,
+  "src": "servicios_c_6_20160901_1275935064.png",
+  "w": 740
+ },
+ "rec-espera": {
+  "h": 512,
+  "src": "maternidad_1_20160818_1157341162.png",
+  "w": 740
+ },
+ "rec-pasillo-1": {
+  "h": 530,
+  "src": "pasillos_1_20151108_1642767215.png",
+  "w": 740
+ },
+ "rec-pasillo-2": {
+  "h": 530,
+  "src": "pasillos_2_20151108_1754655528.png",
+  "w": 740
+ },
+ "rec-pasillo-3": {
+  "h": 530,
+  "src": "pasillos_3_20151108_1204259057.png",
+  "w": 740
+ },
+ "rec-recepcion": {
+  "h": 1000,
+  "src": "400-x-500-d.png",
+  "w": 800
+ },
+ "svc-cirugia": {
+  "h": 512,
+  "src": "370-X-256-CIRUGIA-GENERAL.png",
+  "w": 740
+ },
+ "svc-emergencia": {
+  "h": 512,
+  "src": "370-x-256-s.png",
+  "w": 740
+ },
+ "svc-estetica": {
+  "h": 512,
+  "src": "370-x-256-cirugia-estetica.png",
+  "w": 740
+ },
+ "svc-ginecologia": {
+  "h": 512,
+  "src": "370-x-256-g.png",
+  "w": 740
+ },
+ "svc-laboratorio": {
+  "h": 512,
+  "src": "370-x-256-laboratorio-clinico.png",
+  "w": 740
+ },
+ "svc-maternidad": {
+  "h": 512,
+  "src": "370-x-256-c.png",
+  "w": 740
+ },
+ "svc-neonatos": {
+  "h": 512,
+  "src": "370-X-256-INTENSIVO-NEONATOS.png",
+  "w": 740
+ },
+ "svc-pediatria": {
+  "h": 512,
+  "src": "370-X-256-PEDIATRIA-.png",
+  "w": 740
+ },
+ "svc-traumatologia": {
+  "h": 512,
+  "src": "370-X-256-TRAUMATOLOGIA.png",
+  "w": 740
+ },
+ "svc-videocirugia": {
+  "h": 512,
+  "src": "370-x-256-video-cirugia.png",
+  "w": 740
+ },
+ "svcd-cirugia": {
+  "h": 1000,
+  "src": "400-X-500-CIRUGIA-GENERAL.png",
+  "w": 800
+ },
+ "svcd-emergencia": {
+  "h": 1000,
+  "src": "400-x-500-d.png",
+  "w": 800
+ },
+ "svcd-estetica": {
+  "h": 1000,
+  "src": "400-x500-cirugia-estetica.png",
+  "w": 800
+ },
+ "svcd-ginecologia": {
+  "h": 1000,
+  "src": "400-x-500-h.png",
+  "w": 800
+ },
+ "svcd-laboratorio": {
+  "h": 1000,
+  "src": "400-x-500-laboratorio-clinico.png",
+  "w": 800
+ },
+ "svcd-maternidad": {
+  "h": 1000,
+  "src": "400-x-500-f.png",
+  "w": 800
+ },
+ "svcd-neonatos": {
+  "h": 1000,
+  "src": "400-X-500-INTENSIVO-NEONATOS-.png",
+  "w": 800
+ },
+ "svcd-pediatria": {
+  "h": 1000,
+  "src": "400-X-500-PEDIATRIA.png",
+  "w": 800
+ },
+ "svcd-traumatologia": {
+  "h": 1000,
+  "src": "400-X-500-TRAUMATOLOGIA.png",
+  "w": 800
+ },
+ "svcd-videocirugia": {
+  "h": 1000,
+  "src": "400-x-500-video-cirugia.png",
+  "w": 800
+ }
+}
