@@ -358,6 +358,196 @@
       "footer.rights": "Todos los derechos reservados.",
       "footer.made_by": "Sitio administrado por TeraDevs",
 
+      /* Hospital modules (doctors, appointments, packages, exams, reviews, notice) */
+      "notice.text": "",
+      "notice.close": "Cerrar aviso",
+      "notice.label": "Aviso",
+      "doctors.eyebrow": "Directorio médico",
+      "doctors.title": "Nuestros médicos",
+      "doctors.desc": "Busque por nombre o especialidad y solicite su cita con el médico de su preferencia.",
+      "doctors.cta": "Pedir cita",
+      "doctors.search_label": "Buscar médico",
+      "doctors.search_ph": "Nombre o especialidad",
+      "doctors.filter_aria": "Filtrar por especialidad",
+      "doctors.all": "Todas",
+      "doctors.empty": "No encontramos médicos con esa búsqueda.",
+      "doctors.license": "Colegiado",
+      "doctors.hours": "Horario",
+      "doctors.insurers": "Seguros",
+      "doctors.request": "Solicitar en línea",
+      "doctors.wa_msg": "Hola, quisiera una cita con {name} ({specialty}) en el Hospital Centro Médico Renacer.",
+      "doctors.results": "{n} médicos",
+      "doctors.result1": "1 médico",
+      "appt.eyebrow": "Citas",
+      "appt.title": "",
+      "appt.desc": "Elija la especialidad y la fecha que prefiere. Le llamaremos para confirmar el horario disponible.",
+      "appt.submit": "Solicitar cita",
+      "appt.ok": "¡Gracias! Recibimos su solicitud. Le llamaremos para confirmar la fecha y la hora de su cita.",
+      "appt.specialty_label": "Especialidad",
+      "appt.doctor_label": "Médico",
+      "appt.doctor_any": "Cualquier médico disponible",
+      "appt.date_label": "Fecha preferida",
+      "appt.time_label": "Horario preferido",
+      "appt.time_morning": "Mañana",
+      "appt.time_afternoon": "Tarde",
+      "appt.time_any": "Cualquiera",
+      "req.name_label": "Nombre del paciente",
+      "req.phone_label": "Teléfono",
+      "req.email_label": "Correo electrónico",
+      "req.notes_label": "Comentarios",
+      "req.health_notice": "Por su privacidad, no incluya diagnósticos, resultados ni otros datos clínicos: solo lo necesario para atender su solicitud.",
+      "pkg.eyebrow": "Paquetes",
+      "pkg.title": "Paquetes y precios de referencia",
+      "pkg.desc": "Conozca de antemano el costo aproximado de los procedimientos más solicitados.",
+      "pkg.from": "Desde",
+      "pkg.cta": "Solicitar información",
+      "pkg.note": "Precios de referencia en quetzales, sujetos a la evaluación médica y a cambios sin previo aviso.",
+      "pkg.includes": "Incluye",
+      "pkg.pdf": "Descargar precios en PDF",
+      "comp.title": "",
+      "labprep.eyebrow": "Exámenes",
+      "labprep.title": "Cómo prepararse para sus exámenes",
+      "labprep.desc": "Siga estas indicaciones para que sus resultados sean confiables. Si tiene dudas, llámenos antes de venir.",
+      "labprep.time": "Resultados",
+      "inshow.title": "",
+      "insck.title": "",
+      "insck.desc": "Envíenos los datos de su póliza y el área de admisión le confirmará su cobertura antes de su visita.",
+      "insck.submit": "Verificar cobertura",
+      "insck.ok": "¡Gracias! Admisión revisará su cobertura y le llamará con la respuesta.",
+      "insck.insurer_label": "Aseguradora",
+      "insck.other": "Otra aseguradora",
+      "insck.policy_label": "Número de póliza o carné",
+      "insck.holder_label": "Nombre del asegurado",
+      "insck.service_label": "Servicio que necesita",
+      "reviews.eyebrow": "Opiniones",
+      "reviews.title": "Lo que dicen nuestros pacientes",
+      "reviews.based": "Calificación en Google",
+      "reviews.cta": "Deje su opinión en Google",
+      "reviews.stars_aria": "{n} de 5 estrellas",
+      "reviews.count_text": "{n} opiniones",
+      "ctabanner.directions": "Cómo llegar a Emergencia",
+      "actions.emergency": "Emergencia",
+      "svcpage.back": "Volver al inicio",
+      "svcpage.doctors": "Médicos de esta especialidad",
+      "svcpage.request_title": "¿Necesita una cita?",
+      "svcpage.request_desc": "Solicítela en línea, escríbanos por WhatsApp o llámenos.",
+      "svcpage.more_services": "Otros servicios",
+      "services.page": "Ver página de {name}",
+      "nav.doctors": "Médicos",
+      "doctor1.specialty": "",
+      "doctor1.hours": "",
+      "doctor1.bio": "",
+      "doctor2.specialty": "",
+      "doctor2.hours": "",
+      "doctor2.bio": "",
+      "doctor3.specialty": "",
+      "doctor3.hours": "",
+      "doctor3.bio": "",
+      "doctor4.specialty": "",
+      "doctor4.hours": "",
+      "doctor4.bio": "",
+      "doctor5.specialty": "",
+      "doctor5.hours": "",
+      "doctor5.bio": "",
+      "doctor6.specialty": "",
+      "doctor6.hours": "",
+      "doctor6.bio": "",
+      "doctor7.specialty": "",
+      "doctor7.hours": "",
+      "doctor7.bio": "",
+      "doctor8.specialty": "",
+      "doctor8.hours": "",
+      "doctor8.bio": "",
+      "doctor9.specialty": "",
+      "doctor9.hours": "",
+      "doctor9.bio": "",
+      "doctor10.specialty": "",
+      "doctor10.hours": "",
+      "doctor10.bio": "",
+      "doctor11.specialty": "",
+      "doctor11.hours": "",
+      "doctor11.bio": "",
+      "doctor12.specialty": "",
+      "doctor12.hours": "",
+      "doctor12.bio": "",
+      "pkg1.name": "",
+      "pkg1.badge": "",
+      "pkg1.desc": "",
+      "pkg1.includes": "",
+      "comp1": "",
+      "review1.text": "",
+      "review1.when": "",
+      "pkg2.name": "",
+      "pkg2.badge": "",
+      "pkg2.desc": "",
+      "pkg2.includes": "",
+      "comp2": "",
+      "review2.text": "",
+      "review2.when": "",
+      "pkg3.name": "",
+      "pkg3.badge": "",
+      "pkg3.desc": "",
+      "pkg3.includes": "",
+      "comp3": "",
+      "review3.text": "",
+      "review3.when": "",
+      "pkg4.name": "",
+      "pkg4.badge": "",
+      "pkg4.desc": "",
+      "pkg4.includes": "",
+      "comp4": "",
+      "review4.text": "",
+      "review4.when": "",
+      "pkg5.name": "",
+      "pkg5.badge": "",
+      "pkg5.desc": "",
+      "pkg5.includes": "",
+      "comp5": "",
+      "review5.text": "",
+      "review5.when": "",
+      "pkg6.name": "",
+      "pkg6.badge": "",
+      "pkg6.desc": "",
+      "pkg6.includes": "",
+      "comp6": "",
+      "review6.text": "",
+      "review6.when": "",
+      "exam1.name": "",
+      "exam1.prep": "",
+      "exam1.time": "",
+      "exam2.name": "",
+      "exam2.prep": "",
+      "exam2.time": "",
+      "exam3.name": "",
+      "exam3.prep": "",
+      "exam3.time": "",
+      "exam4.name": "",
+      "exam4.prep": "",
+      "exam4.time": "",
+      "exam5.name": "",
+      "exam5.prep": "",
+      "exam5.time": "",
+      "exam6.name": "",
+      "exam6.prep": "",
+      "exam6.time": "",
+      "exam7.name": "",
+      "exam7.prep": "",
+      "exam7.time": "",
+      "exam8.name": "",
+      "exam8.prep": "",
+      "exam8.time": "",
+      "exam9.name": "",
+      "exam9.prep": "",
+      "exam9.time": "",
+      "exam10.name": "",
+      "exam10.prep": "",
+      "exam10.time": "",
+      "inshow1": "",
+      "inshow2": "",
+      "inshow3": "",
+      "inshow4": "",
+      "inshow5": "",
+
       "whatsapp.message": "Hola, quisiera información sobre los servicios del Hospital Centro Médico Renacer."
     },
     en: {
@@ -705,6 +895,196 @@
       "footer.rights": "All rights reserved.",
       "footer.made_by": "Site managed by TeraDevs",
 
+      /* Hospital modules (doctors, appointments, packages, exams, reviews, notice) */
+      "notice.text": "",
+      "notice.close": "Close notice",
+      "notice.label": "Notice",
+      "doctors.eyebrow": "Medical directory",
+      "doctors.title": "Our doctors",
+      "doctors.desc": "Search by name or specialty and request an appointment with the doctor of your choice.",
+      "doctors.cta": "Book appointment",
+      "doctors.search_label": "Find a doctor",
+      "doctors.search_ph": "Name or specialty",
+      "doctors.filter_aria": "Filter by specialty",
+      "doctors.all": "All",
+      "doctors.empty": "No doctors match your search.",
+      "doctors.license": "License no.",
+      "doctors.hours": "Hours",
+      "doctors.insurers": "Insurance",
+      "doctors.request": "Request online",
+      "doctors.wa_msg": "Hello, I'd like an appointment with {name} ({specialty}) at Centro Médico Renacer Hospital.",
+      "doctors.results": "{n} doctors",
+      "doctors.result1": "1 doctor",
+      "appt.eyebrow": "Appointments",
+      "appt.title": "",
+      "appt.desc": "Choose the specialty and your preferred date. We will call you to confirm an available time.",
+      "appt.submit": "Request appointment",
+      "appt.ok": "Thank you! We received your request. We will call you to confirm the date and time of your appointment.",
+      "appt.specialty_label": "Specialty",
+      "appt.doctor_label": "Doctor",
+      "appt.doctor_any": "Any available doctor",
+      "appt.date_label": "Preferred date",
+      "appt.time_label": "Preferred time",
+      "appt.time_morning": "Morning",
+      "appt.time_afternoon": "Afternoon",
+      "appt.time_any": "Any",
+      "req.name_label": "Patient's name",
+      "req.phone_label": "Phone",
+      "req.email_label": "Email",
+      "req.notes_label": "Comments",
+      "req.health_notice": "For your privacy, please don't include diagnoses, test results or other clinical details — only what we need to handle your request.",
+      "pkg.eyebrow": "Packages",
+      "pkg.title": "Packages and reference prices",
+      "pkg.desc": "Know the approximate cost of our most requested procedures in advance.",
+      "pkg.from": "From",
+      "pkg.cta": "Request information",
+      "pkg.note": "Reference prices in quetzales, subject to medical evaluation and change without notice.",
+      "pkg.includes": "Includes",
+      "pkg.pdf": "Download price list (PDF)",
+      "comp.title": "",
+      "labprep.eyebrow": "Exams",
+      "labprep.title": "How to prepare for your exams",
+      "labprep.desc": "Follow these instructions so your results are reliable. If in doubt, call us before you come.",
+      "labprep.time": "Results",
+      "inshow.title": "",
+      "insck.title": "",
+      "insck.desc": "Send us your policy details and our admissions team will confirm your coverage before your visit.",
+      "insck.submit": "Check coverage",
+      "insck.ok": "Thank you! Admissions will review your coverage and call you back with the answer.",
+      "insck.insurer_label": "Insurance company",
+      "insck.other": "Other insurer",
+      "insck.policy_label": "Policy or member number",
+      "insck.holder_label": "Policyholder's name",
+      "insck.service_label": "Service you need",
+      "reviews.eyebrow": "Reviews",
+      "reviews.title": "What our patients say",
+      "reviews.based": "Google rating",
+      "reviews.cta": "Leave a review on Google",
+      "reviews.stars_aria": "{n} out of 5 stars",
+      "reviews.count_text": "{n} reviews",
+      "ctabanner.directions": "Directions to the ER",
+      "actions.emergency": "Emergency",
+      "svcpage.back": "Back to home",
+      "svcpage.doctors": "Doctors in this specialty",
+      "svcpage.request_title": "Need an appointment?",
+      "svcpage.request_desc": "Request it online, message us on WhatsApp or call us.",
+      "svcpage.more_services": "Other services",
+      "services.page": "{name} page",
+      "nav.doctors": "Doctors",
+      "doctor1.specialty": "",
+      "doctor1.hours": "",
+      "doctor1.bio": "",
+      "doctor2.specialty": "",
+      "doctor2.hours": "",
+      "doctor2.bio": "",
+      "doctor3.specialty": "",
+      "doctor3.hours": "",
+      "doctor3.bio": "",
+      "doctor4.specialty": "",
+      "doctor4.hours": "",
+      "doctor4.bio": "",
+      "doctor5.specialty": "",
+      "doctor5.hours": "",
+      "doctor5.bio": "",
+      "doctor6.specialty": "",
+      "doctor6.hours": "",
+      "doctor6.bio": "",
+      "doctor7.specialty": "",
+      "doctor7.hours": "",
+      "doctor7.bio": "",
+      "doctor8.specialty": "",
+      "doctor8.hours": "",
+      "doctor8.bio": "",
+      "doctor9.specialty": "",
+      "doctor9.hours": "",
+      "doctor9.bio": "",
+      "doctor10.specialty": "",
+      "doctor10.hours": "",
+      "doctor10.bio": "",
+      "doctor11.specialty": "",
+      "doctor11.hours": "",
+      "doctor11.bio": "",
+      "doctor12.specialty": "",
+      "doctor12.hours": "",
+      "doctor12.bio": "",
+      "pkg1.name": "",
+      "pkg1.badge": "",
+      "pkg1.desc": "",
+      "pkg1.includes": "",
+      "comp1": "",
+      "review1.text": "",
+      "review1.when": "",
+      "pkg2.name": "",
+      "pkg2.badge": "",
+      "pkg2.desc": "",
+      "pkg2.includes": "",
+      "comp2": "",
+      "review2.text": "",
+      "review2.when": "",
+      "pkg3.name": "",
+      "pkg3.badge": "",
+      "pkg3.desc": "",
+      "pkg3.includes": "",
+      "comp3": "",
+      "review3.text": "",
+      "review3.when": "",
+      "pkg4.name": "",
+      "pkg4.badge": "",
+      "pkg4.desc": "",
+      "pkg4.includes": "",
+      "comp4": "",
+      "review4.text": "",
+      "review4.when": "",
+      "pkg5.name": "",
+      "pkg5.badge": "",
+      "pkg5.desc": "",
+      "pkg5.includes": "",
+      "comp5": "",
+      "review5.text": "",
+      "review5.when": "",
+      "pkg6.name": "",
+      "pkg6.badge": "",
+      "pkg6.desc": "",
+      "pkg6.includes": "",
+      "comp6": "",
+      "review6.text": "",
+      "review6.when": "",
+      "exam1.name": "",
+      "exam1.prep": "",
+      "exam1.time": "",
+      "exam2.name": "",
+      "exam2.prep": "",
+      "exam2.time": "",
+      "exam3.name": "",
+      "exam3.prep": "",
+      "exam3.time": "",
+      "exam4.name": "",
+      "exam4.prep": "",
+      "exam4.time": "",
+      "exam5.name": "",
+      "exam5.prep": "",
+      "exam5.time": "",
+      "exam6.name": "",
+      "exam6.prep": "",
+      "exam6.time": "",
+      "exam7.name": "",
+      "exam7.prep": "",
+      "exam7.time": "",
+      "exam8.name": "",
+      "exam8.prep": "",
+      "exam8.time": "",
+      "exam9.name": "",
+      "exam9.prep": "",
+      "exam9.time": "",
+      "exam10.name": "",
+      "exam10.prep": "",
+      "exam10.time": "",
+      "inshow1": "",
+      "inshow2": "",
+      "inshow3": "",
+      "inshow4": "",
+      "inshow5": "",
+
       "whatsapp.message": "Hello, I'd like information about the services at Centro Médico Renacer Hospital."
     }
   };
@@ -737,7 +1117,8 @@
   }
   var SITE_IMAGES = (SITE_CONTENT.images && typeof SITE_CONTENT.images === 'object') ? SITE_CONTENT.images : {};
 
-  function store(key, val){ try { if (val === undefined) return localStorage.getItem(key); localStorage.setItem(key, val); } catch (e) { return null; } return null; }
+  // Nothing is stored until the visitor actually sets something (empty values remove the key).
+  function store(key, val){ try { if (val === undefined) return localStorage.getItem(key); if (val === '{}' || val === '[]') localStorage.removeItem(key); else localStorage.setItem(key, val); } catch (e) { return null; } return null; }
 
   var LANG_KEY = 'renacer_lang';
   var currentLang = (function(){
@@ -776,7 +1157,8 @@
         if (val !== undefined) el.setAttribute(parts[0].trim(), val);
       });
     });
-    if (dict['meta.title']) document.title = dict['meta.title'];
+    /* Service pages keep their own title (the home page's title is for the home page). */
+    if (dict['meta.title'] && document.body.getAttribute('data-page') !== 'service') document.title = dict['meta.title'];
     [['metaDescription', 'meta.description'], ['ogTitle', 'meta.title'], ['ogDescription', 'meta.description'], ['twTitle', 'meta.title'], ['twDescription', 'meta.description'], ['ogLocale', 'og.locale']].forEach(function(p){
       var el = document.getElementById(p[0]);
       if (el && dict[p[1]]) el.setAttribute('content', dict[p[1]]);
@@ -1652,4 +2034,219 @@
       });
     });
   }
+  /* ============================================================
+     HOSPITAL MODULES (cms/src/HospitalModules.php) — every block is
+     optional: each part below does nothing when its markup is absent.
+     ============================================================ */
+  var todayYmd = (function(){ var d = new Date(); return d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2); })();
+  var fold = function(s){
+    return String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+  };
+
+  /* ---------- Featured notice: hidden after its end date; closing hides it for this visit ---------- */
+  var notice = document.getElementById('siteNotice');
+  if (notice){
+    var until = notice.getAttribute('data-until') || '';
+    var noticeKey = 'renacer_notice_closed';
+    var noticeSig = String((I18N.es['notice.text'] || notice.textContent || '').length) + ':' + until;
+    var closed = false;
+    try { closed = sessionStorage.getItem(noticeKey) === noticeSig; } catch (e) { /* storage blocked */ }
+    if ((until && until < todayYmd) || closed) notice.hidden = true;
+    var noticeClose = document.getElementById('noticeClose');
+    if (noticeClose) noticeClose.addEventListener('click', function(){
+      notice.hidden = true;
+      try { sessionStorage.setItem(noticeKey, noticeSig); } catch (e) { /* storage blocked */ }
+      var main = document.getElementById('main');
+      if (main) main.focus({ preventScroll: true });
+    });
+  }
+
+  /* ---------- Texts made of several pieces (package lists, service page paragraphs) ---------- */
+  var applyPieces = function(){
+    document.querySelectorAll('[data-split-i18n]').forEach(function(ul){
+      var val = t(ul.getAttribute('data-split-i18n'));
+      if (!val || val === ul.getAttribute('data-split-i18n')) return;
+      var items = val.split(/[;\n]+/).map(function(s){ return s.trim(); }).filter(Boolean);
+      ul.innerHTML = '';
+      items.forEach(function(text){
+        var li = document.createElement('li');
+        li.innerHTML = '<svg aria-hidden="true"><use href="#i-check"/></svg>';
+        var span = document.createElement('span');
+        span.textContent = text;
+        li.appendChild(span);
+        ul.appendChild(li);
+      });
+    });
+    document.querySelectorAll('[data-i18n-paras]').forEach(function(box){
+      var val = t(box.getAttribute('data-i18n-paras'));
+      if (!val || val === box.getAttribute('data-i18n-paras')) return;
+      box.innerHTML = '';
+      val.split(/\n\s*\n/).forEach(function(par){
+        par = par.trim();
+        if (!par) return;
+        var p = document.createElement('p');
+        p.textContent = par;
+        box.appendChild(p);
+      });
+    });
+    document.querySelectorAll('[data-stars]').forEach(function(s){ s.setAttribute('aria-label', fmt(t('reviews.stars_aria'), { n: s.getAttribute('data-stars') })); });
+    document.querySelectorAll('[data-reviews-count]').forEach(function(s){ s.textContent = fmt(t('reviews.count_text'), { n: s.getAttribute('data-reviews-count') }); });
+    /* «Pedir cita» by WhatsApp: a message naming the doctor and the specialty. */
+    document.querySelectorAll('[data-wa-doc]').forEach(function(a){
+      var k = a.getAttribute('data-wa-doc');
+      a.setAttribute('href', waUrl(fmt(t('doctors.wa_msg'), { name: a.getAttribute('data-doc-name') || '', specialty: t(k + '.specialty') === k + '.specialty' ? '' : t(k + '.specialty') })));
+    });
+  };
+  langListeners.push(applyPieces);
+  if (currentLang !== 'es') applyPieces();
+
+  /* ---------- Doctors: search by name or specialty, filter by specialty ---------- */
+  var docGrid = document.getElementById('doctorsGrid');
+  if (docGrid){
+    var docSearch = document.getElementById('docSearch');
+    var docFilter = document.getElementById('docFilter');
+    var docEmpty = document.getElementById('docEmpty');
+    var docCount = document.getElementById('docCount');
+    var activeSpec = '';
+    var docTimer = null;
+    var filterDoctors = function(announce){
+      var q = fold(docSearch ? docSearch.value : '');
+      var shown = 0;
+      Array.prototype.forEach.call(docGrid.children, function(card){
+        var okSpec = !activeSpec || card.getAttribute('data-spec') === activeSpec;
+        var okText = !q || q.split(' ').every(function(w){ return (card.getAttribute('data-search') || '').indexOf(w) !== -1; });
+        card.hidden = !(okSpec && okText);
+        if (!card.hidden){ shown++; card.classList.add('in'); }
+      });
+      if (docEmpty) docEmpty.hidden = shown !== 0;
+      if (docCount && announce) docCount.textContent = shown === 1 ? t('doctors.result1') : fmt(t('doctors.results'), { n: shown });
+    };
+    if (docSearch) docSearch.addEventListener('input', function(){
+      clearTimeout(docTimer);
+      docTimer = setTimeout(function(){ filterDoctors(true); }, 180);
+    });
+    if (docFilter) docFilter.addEventListener('click', function(e){
+      var b = e.target.closest ? e.target.closest('.chip-btn') : null;
+      if (!b) return;
+      activeSpec = b.getAttribute('data-filter') || '';
+      Array.prototype.forEach.call(docFilter.querySelectorAll('.chip-btn'), function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      filterDoctors(true);
+    });
+  }
+
+  /* ---------- Appointment: preselect specialty / doctor (cards, service pages, ?medico= / ?especialidad=) ---------- */
+  var apptForm = document.getElementById('appointmentForm');
+  var apptSpec = document.getElementById('apptSpecialty');
+  var apptDoc = document.getElementById('apptDoctor');
+  var preselectAppointment = function(doctor, spec){
+    if (!apptForm) return false;
+    if (apptDoc && doctor && apptDoc.querySelector('option[value="' + doctor + '"]')){
+      apptDoc.value = doctor;
+      spec = spec || apptDoc.options[apptDoc.selectedIndex].getAttribute('data-spec');
+    }
+    if (apptSpec && spec && apptSpec.querySelector('option[value="' + spec + '"]')) apptSpec.value = spec;
+    return true;
+  };
+  if (apptForm){
+    document.querySelectorAll('[data-appt-doctor],[data-appt-spec]').forEach(function(a){
+      a.addEventListener('click', function(e){
+        if (!preselectAppointment(a.getAttribute('data-appt-doctor'), a.getAttribute('data-appt-spec'))) return;
+        e.preventDefault();
+        var target = document.getElementById('citas');
+        if (target) target.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'start' });
+        setTimeout(function(){ var f = document.getElementById('apptDate'); if (f) f.focus({ preventScroll: true }); }, reduceMotion ? 0 : 450);
+      });
+    });
+    /* Picking a doctor also picks the specialty. */
+    if (apptDoc) apptDoc.addEventListener('change', function(){
+      var o = apptDoc.options[apptDoc.selectedIndex];
+      var s = o ? o.getAttribute('data-spec') : '';
+      if (s && apptSpec && apptSpec.querySelector('option[value="' + s + '"]')) apptSpec.value = s;
+    });
+    try {
+      var params = new URLSearchParams(window.location.search);
+      if (params.get('medico') || params.get('especialidad')) preselectAppointment(params.get('medico'), params.get('especialidad'));
+    } catch (e) { /* old browser */ }
+  }
+
+  /* ---------- Request forms (appointment, insurance check) ----------
+     Same handler, anti-spam and captcha as the contact form; stored in
+     «Prospectos» with their kind. */
+  Array.prototype.forEach.call(document.querySelectorAll('form.lead-form'), function(lf){
+    var stamp = lf.querySelector('[data-loaded-at]');
+    if (stamp) stamp.value = String(Date.now());
+    var statusEl = lf.querySelector('[data-form-status]');
+    var btn = lf.querySelector('button[type="submit"]');
+    var busy = false;
+    var kicked = false;
+    var kickOff = function(){ if (!kicked){ kicked = true; startCaptcha(); } };
+    lf.addEventListener('focusin', kickOff);
+    lf.addEventListener('pointerdown', kickOff);
+    Array.prototype.forEach.call(lf.querySelectorAll('input[type="date"][data-future]'), function(d){ d.min = todayYmd; });
+    var fields = function(){ return Array.prototype.filter.call(lf.querySelectorAll('.field'), function(f){ return f.querySelector('input[name],select[name],textarea[name]'); }); };
+    var ctl = function(f){ return f.querySelector('input[name],select[name],textarea[name]'); };
+    var valid = function(f){ return ctl(f).checkValidity(); };
+    var mark = function(f, ok){ f.classList.toggle('invalid', !ok); ctl(f).setAttribute('aria-invalid', ok ? 'false' : 'true'); };
+    var say = function(msg, kind){ if (!statusEl) return; statusEl.textContent = msg; statusEl.className = 'form-status show' + (kind ? ' ' + kind : ''); };
+    fields().forEach(function(f){ ctl(f).addEventListener('blur', function(){ mark(f, valid(f)); }); ctl(f).addEventListener('change', function(){ if (f.classList.contains('invalid')) mark(f, valid(f)); }); });
+    var finish = function(){ busy = false; if (btn) btn.disabled = false; };
+    var post = function(retried){
+      say(t('form.status_sending'), '');
+      var fd = new FormData(lf);
+      fd.set('captcha', captchaInput ? captchaInput.value : '');
+      if (tsToken) fd.set('cf-turnstile-response', tsToken);
+      fd.append('lang', currentLang === 'en' ? 'en' : 'es');
+      fetch('assets/contact-handler.php', { method: 'POST', headers: { 'Accept': 'application/json' }, body: fd })
+        .then(function(res){ return res.json().catch(function(){ return null; }).then(function(data){ return { res: res, data: data }; }); })
+        .then(function(r){
+          if (r.res.ok && r.data && r.data.ok){
+            say(t(lf.getAttribute('data-ok') || 'form.status_ok'), 'ok');
+            lf.reset();
+            fields().forEach(function(f){ mark(f, true); });
+            if (stamp) stamp.value = String(Date.now());
+            captchaJob = null; resetTurnstile(); ensureCaptcha().catch(function(){});
+            finish();
+            return;
+          }
+          if (r.res.status === 400 && r.data && r.data.error === 'captcha_failed' && !retried){
+            captchaJob = null; resetTurnstile();
+            ensureCaptcha().then(turnstileReady).then(function(ok){ if (ok) post(true); else { say(t('form.status_turnstile'), 'error'); finish(); } }, function(){ say(t('form.status_captcha'), 'error'); finish(); });
+            return;
+          }
+          if (r.res.status === 422 && r.data && Array.isArray(r.data.fields)){
+            var first = null;
+            r.data.fields.forEach(function(name){
+              var c = lf.querySelector('[name="' + String(name).replace(/[^a-z_]/g, '') + '"]');
+              var f = c && c.closest('.field');
+              if (f){ mark(f, false); if (!first) first = c; }
+            });
+            say(t('form.status_invalid'), 'error');
+            if (first) first.focus();
+          } else if (r.res.status === 429){
+            say(t('form.status_rate_limited'), 'error');
+          } else {
+            say(t('form.status_error'), 'error');
+          }
+          finish();
+        })
+        .catch(function(){ say(t(navigator.onLine === false ? 'form.status_offline' : 'form.status_error'), 'error'); finish(); });
+    };
+    lf.addEventListener('submit', function(e){
+      e.preventDefault();
+      if (busy) return;
+      var hp = lf.querySelector('input[name="website"]');
+      if (hp && hp.value){ say(t(lf.getAttribute('data-ok') || 'form.status_ok'), 'ok'); lf.reset(); return; }
+      var first = null;
+      fields().forEach(function(f){ var ok = valid(f); mark(f, ok); if (!ok && !first) first = ctl(f); });
+      if (first){ say(t('form.status_invalid'), 'error'); first.focus(); return; }
+      busy = true;
+      if (btn) btn.disabled = true;
+      kickOff();
+      if (captchaInput && !captchaInput.value) say(t('form.status_verifying'), '');
+      ensureCaptcha().then(turnstileReady).then(function(ok){
+        if (!ok){ say(t('form.status_turnstile'), 'error'); finish(); return; }
+        post(false);
+      }, function(){ say(t('form.status_captcha'), 'error'); finish(); });
+    });
+  });
 })();

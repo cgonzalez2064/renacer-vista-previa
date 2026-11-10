@@ -23,7 +23,7 @@
   } catch (e) { return; }
 
   var path = window.location.pathname.replace(/\/index\.html$/, '/');
-  var page = /(^|\/)$/.test(path) ? 'home' : (/privacy-notice\.html$/.test(path) ? 'privacy' : 'notfound');
+  var page = /(^|\/)$/.test(path) ? 'home' : (/\/servicio-[a-z-]+\.html$/.test(path) ? 'service' : (/privacy-notice\.html$/.test(path) ? 'privacy' : 'notfound'));
 
   function send(data) {
     try {
